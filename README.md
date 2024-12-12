@@ -45,7 +45,7 @@ The **Movie Recommendation System** is a C++ application that predicts user rati
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Sreyangshu05/Movie_Recommendation_System.git
+   git clone https://github.com/sreyangshu05/Movie_Recommendation_System.git
    cd Movie_Recommendation_System
 2. Ensure your ratings CSV file (e.g., Ratings.csv) is in the project directory.
 
